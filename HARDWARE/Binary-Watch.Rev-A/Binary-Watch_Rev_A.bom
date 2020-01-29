@@ -1,0 +1,22 @@
+
+Qty Value                    Device                    Parts                             
+2   10pF                     C-EUC0603_DWS             C2, C3                            
+1   100nF                    C-EUC0603_DWS             C1                                
+1   BC-2001                  BFLATWISE                 3V-LI_BAT                         
+6   FIDUCIAL                 FIDUCIAL                  FID1, FID2, FID3, FID4, FID5, FID6
+1   LED/GREEN/0603           LEDLED_0603_1_B           LED6                              
+1   LED/GREEN/0603           LEDLED_0603_2_B           LED5                              
+1   LED/GREEN/0603           LEDLED_0603_4_B           LED4                              
+1   LED/GREEN/0603           LEDLED_0603_8_B           LED3                              
+1   LED/GREEN/0603           LEDLED_0603_16_B          LED2                              
+1   LED/GREEN/0603           LEDLED_0603_32_B          LED1                              
+1   LED/RED/0603             LEDLED_0603_1_T           LED11                             
+1   LED/RED/0603             LEDLED_0603_2_T           LED10                             
+1   LED/RED/0603             LEDLED_0603_4_T           LED9                              
+1   LED/RED/0603             LEDLED_0603_8_T           LED8                              
+1   LED/RED/0603             LEDLED_0603_16_T          LED7                              
+1   MC-306_32.768KHZ/6pF     MC-306_32.768KHZ/SMD_8038 Q1                                
+1   NA(WUO6S)                CON6WUO6S                 ICSP                              
+1   PIC16F722A-I/SS          PIC16F722A-I/SS           U1                                
+3   RA1206_(4x0603)_4B8_4.7k R_MATRIX_4E               RM1, RM2, RM3                     
+2   SIDE_WTCM-TR(3X4)        SW-TAKTSIDE_WTCM-TR(3X4)  BUT1, BUT2                        
